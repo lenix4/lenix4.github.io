@@ -4,6 +4,6 @@ h1{
     font-weight: bold;
     color: white;
 }
-header{
-    background-image: url("img/back.jpg");
+head{
+    background-image: url(img/back.jpg);
 }
