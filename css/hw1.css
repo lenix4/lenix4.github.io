@@ -1,32 +1,22 @@
-img {
-    display: none;
+header{
+    background-color:#778899;
 }
-
-header
-{
-    text-transform: uppercase;
+h1{
+    color: #ffffff;
     text-align: center;
-    background:#FF00FF
+    text-transform: uppercase;
 }
-h1
-{
-  color:#F00000;
-      text-transform: uppercase;
-
+a{
+    color: #000000;
+    background-color:#f5f5dc;
 }
-h2
-{
-  color:#000F00;
-        text-transform: uppercase;
-
+main{
+    background-color: #696969;
 }
-a
-{
-  background:#FFFF0F;
-  color:#00FFFF
+h2{
+    color: #0000ff;
+    text-transform: uppercase;
 }
-section.right
-{
-      background:#FF0000
-
+img{
+    display: none;
 }
