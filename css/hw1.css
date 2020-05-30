@@ -17,6 +17,6 @@ h2{
     font-variant: inherit;
 }
 img{
-    opacity: 0;
+    display: none;
     background: #ffffff;
 }
