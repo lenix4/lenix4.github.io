@@ -17,5 +17,5 @@ h2{
     font-variant: inherit;
 }
 img{
-    visibility: hidden;
+    visibility: collapse;
 }
