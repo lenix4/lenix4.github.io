@@ -2,12 +2,13 @@ header{
     background-color:#778899;
 }
 h1{
-    color: #d3d3d3;
+    color: #ffffff;
     text-align: center;
     font-variant: inherit;  
 }
 nav{
     color: #000000;
+
 }
 main{
     background-color: #696969;
@@ -15,4 +16,7 @@ main{
 h2{
     color: #0000ff;
     font-variant: inherit;
+}
+img{
+    visibility: hidden;
 }
