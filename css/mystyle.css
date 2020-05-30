@@ -5,5 +5,5 @@ h1{
     color: white;
 }
 head{
-    background-image: url(img/back.jpg);
+    background-image: url("img/back.jpg");
 }
