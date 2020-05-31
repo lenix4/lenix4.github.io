@@ -12,11 +12,15 @@ nav{
 }
 a{
     color: salmon;
+    text-align: center;
 }
 h2{
-    color: springgreen;
+    color:brown;
 }
 div{
     width: 30%;
     display: inline-block;
+    margin: 6px;
+    float: left;
+    overflow: scroll;
 }
