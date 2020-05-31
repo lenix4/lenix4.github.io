@@ -36,5 +36,5 @@ p{
     display: inline-block;
 }
 progress{
-    overflow: hidden;;
+    width: 30%;
 }
