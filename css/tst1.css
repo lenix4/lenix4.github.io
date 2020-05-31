@@ -26,4 +26,5 @@ div{
     margin: 6px;
     float: left;
     overflow: scroll;
+    padding-bottom: 10px;
 }
