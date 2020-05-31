@@ -1,6 +1,9 @@
 header,h2,footer{
     background-color: deepskyblue;
 }
+header{
+    text-align: center;
+}
 h1{
     text-align: center;
     color: white;
