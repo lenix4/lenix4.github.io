@@ -25,5 +25,7 @@ div{
     display: inline-block;
     margin: 6px;
     float: left;
-    padding-bottom: 10px;
+}
+footer{
+    clear: both;
 }
