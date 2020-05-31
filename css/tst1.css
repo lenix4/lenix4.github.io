@@ -28,4 +28,8 @@ div{
 }
 footer{
     clear: both;
+    display: inline-block;
+}
+img{
+    width: 10%;
 }
