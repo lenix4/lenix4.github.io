@@ -20,12 +20,6 @@ a{
 h2{
     color:brown;
 }
-div{
-    width: 30%;
-    display: inline-block;
-    margin: 6px;
-    float: left;
-}
 footer{
     clear: both;
 }
@@ -37,4 +31,12 @@ p{
 }
 progress{
     width: 30%;
+}
+.half{
+    width: 45%;
+    display: inline-block;
+    float: left;
+}
+.whole{
+    clear: both;
 }
