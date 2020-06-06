@@ -11,6 +11,7 @@ h1{
 }
 nav a{
     border: 8px solid #ffffff;
+    background-color: #ffffff;
     font-size: 250%;
     color: #000000;
     margin-left: 100px;
