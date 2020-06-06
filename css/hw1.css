@@ -29,7 +29,6 @@ a.active:active{
     background-color: #bdb76b;
     width: 30%;
     height: 100%;
-    display: inline-block;
     float: left;
 }
 .left img{
