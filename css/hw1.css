@@ -29,7 +29,6 @@ a.active:active{
     background-color: #bdb76b;
     background-size: cover;
     width: 20%;
-    float: left;
 }
 .left img{
     border: 2px solid #000000;
