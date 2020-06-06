@@ -25,14 +25,11 @@ nav a{
 a.active:active{
     opacity: 1;
 }
-main{
-    display: inline-block;
-}
 .left{
     background-color: #bdb76b;
     width: 30%;
     height: 100%;
-    display: table-column;
+    display: inline-block;
     float: left;
 }
 .left img{
@@ -40,6 +37,7 @@ main{
     margin: 4px;  
 }
 .right{
+    display: inline-block;
     background-color: #ffffff;
     width: 60%;
     clear: both;
