@@ -1,0 +1,14 @@
+header{
+    background-image: url(../img/flywheel.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 100%;
+}
+nav a{
+    border: #ffffff;
+}
