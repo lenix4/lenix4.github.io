@@ -10,7 +10,7 @@ h1{
     font-size: 400%;
 }
 nav a{
-    border-radius: 8px 10px;
+    border: 8px;
     font-size: 300%;
     color: #000000;
     margin-left: 60px;
