@@ -27,10 +27,11 @@ a.active:active{
 }
 main{
     display: inline-block;
+    float: left;
+    clear: both;
 }
 .left{
     background-color: #bdb76b;
-    float: left;
     width: 30%;
 }
 .left img{
@@ -40,6 +41,5 @@ main{
 .right{
     background-color: #ffffff;
     width: 60%;
-    clear: both;
 }
 
