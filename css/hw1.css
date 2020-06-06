@@ -1,5 +1,4 @@
 header{
-    width: 100%;
     background-image: url(../img/flywheel.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -8,8 +7,11 @@ header{
 h1{
     color: #ffffff;
     text-align: center;
-    font-size: 100%;
+    font-size: 400%;
 }
 nav a{
     border: #ffffff;
+    font-size: 300%;
+    color: #000000;
+    margin-left: 10px;
 }
