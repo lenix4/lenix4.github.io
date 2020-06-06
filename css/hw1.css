@@ -48,6 +48,9 @@ a.active:active{
     clear: both;
 }
 .right p{
+    font-size: 100%;
+}
+.right h2{
     font-size: 150%;
 }
 
