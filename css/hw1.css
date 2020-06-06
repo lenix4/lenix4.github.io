@@ -31,6 +31,7 @@ main{
 .left{
     background-color: #bdb76b;
     width: 30%;
+    height: 100%;
     display: table-column;
     float: left;
 }
