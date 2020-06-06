@@ -22,5 +22,5 @@ nav a{
     height: 15%;
 }
 nav a:active{
-    background-color: #ffffff;
+    opacity: 1;
 }
