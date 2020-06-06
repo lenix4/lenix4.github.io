@@ -24,4 +24,21 @@ nav a{
 a.active:active{
     opacity: 1;
 }
+main{
+    display: inline;
+}
+.left{
+    background-color: #bdb76b;
+    float: left;
+    width: 30%;
+}
+.left img{
+    width: 20%;
+    margin: 4px;
+}
+.right{
+    background-color: #ffffff;
+    width: 60%;
+    clear: both;
+}
 
