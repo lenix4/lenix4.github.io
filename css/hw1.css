@@ -29,15 +29,15 @@ a.active:active{
     background-color: #bdb76b;
     background-size: cover;
     width: 20%;
-    height: 600px;
+    height: 600%;
     float: left;
 }
 .left img{
     border: 2px solid #000000;
     width: 70%;
     height: 100px;
-    margin-top: 50px;
-    margin-left: 40px;
+    margin-top: 5%;
+    margin-left: 10%;
     display: block;  
 }
 .right{
