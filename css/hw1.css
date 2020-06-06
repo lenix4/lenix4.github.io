@@ -27,19 +27,20 @@ a.active:active{
 }
 main{
     display: inline-block;
-    float: left;
-    clear: both;
 }
 .left{
     background-color: #bdb76b;
     width: 30%;
+    display: table-column;
+    float: left;
 }
 .left img{
     width: 20%;
-    margin: 4px;
+    margin: 4px;  
 }
 .right{
     background-color: #ffffff;
     width: 60%;
+    clear: both;
 }
 
