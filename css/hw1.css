@@ -22,8 +22,8 @@ nav a{
     width: 20%;
     height: 15%;
 }
-a.active:active{
-    opacity: 1;
+a.active{
+    background-color: #ffffff;
 }
 .left{
     background-color: #bdb76b;
