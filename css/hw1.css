@@ -35,8 +35,9 @@ a.active:active{
 .left img{
     border: 2px solid #000000;
     width: 200px;
-    height: 200px;
-    margin: 4px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
     display: block;  
 }
 .right{
