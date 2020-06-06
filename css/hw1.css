@@ -3,7 +3,7 @@ header{
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 300%;
+    height: 200px;
 }
 h1{
     color: #ffffff;
@@ -18,7 +18,7 @@ nav a{
     color: #000000;
     margin-left: 10%;
     text-decoration: none;
-    padding: 4%;
+    padding: 20px;
     width: 20%;
     height: 15%;
 }
