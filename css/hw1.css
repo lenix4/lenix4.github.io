@@ -29,19 +29,19 @@ a.active:active{
     background-color: #bdb76b;
     background-size: cover;
     width: 20%;
-    height: 600%;
+    height: 600px;
     float: left;
 }
 .left img{
     border: 2px solid #000000;
     width: 70%;
     height: 100px;
-    margin-top: 5%;
-    margin-left: 10%;
+    margin-top: 30%;
+    margin-left: 15%;
     display: block;  
 }
 .right{
-    margin: 5px;
+    margin: 10%;
     display: inline-block;
     background-color: #ffffff;
     width: 60%;
