@@ -27,6 +27,7 @@ a.active:active{
 }
 .left{
     background-color: #bdb76b;
+    background-size: cover;
     width: 30%;
     height: 100%;
     float: left;
