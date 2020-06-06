@@ -35,9 +35,9 @@ progress{
 .half{
     width: 45%;
     display: inline-block;
-    float: left;
     margin: 2px;
 }
 .whole{
     clear: both;
+    text-decoration: none;
 }
