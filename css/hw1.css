@@ -10,14 +10,15 @@ h1{
     font-size: 400%;
 }
 nav a{
-    border: 8px solid #ffffff;
+    border-radius: 25px;
     opacity: 0.2;
     font-size: 250%;
     color: #000000;
     margin-left: 100px;
     text-decoration: none;
-    padding: 5px;
+    padding: 20px;
     width: 20%;
+    height: 15%;
 }
 nav a:active{
     background-color: #ffffff;
