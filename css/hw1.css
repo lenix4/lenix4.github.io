@@ -21,7 +21,7 @@ nav a{
     width: 20%;
     height: 15%;
 }
-a.active:visited{
+a.active::selection{
     opacity: 1;
 }
 
