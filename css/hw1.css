@@ -8,14 +8,14 @@ header{
 h1{
     color: #ffffff;
     text-align: center;
-    font-size: 400%;
+    font-size: 300%;
 }
 nav a{
     border-radius: 25px;
     background-color: #9c9a9a;
-    font-size: 250%;
+    font-size: 30px;
     color: #000000;
-    margin-left: 10%;
+    margin-left: 5%;
     text-decoration: none;
     padding: 20px;
     width: 20%;
@@ -55,4 +55,44 @@ a.active{
 .right a{
     font-size: 100%;
 }
+
+/* Week 4 */
+.right table{
+    line-height: 40px;
+    width: 90%;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.right table th{
+    color: #ffffff;
+    background-color: #006400;
+    border-radius: 8px 8px 0 0;
+    padding: 10px;
+    text-align: center;
+    border-bottom-style: groove;
+}
+.right table th:first-child{
+    width: 55%;
+    text-align: left;
+}
+.right table tr td{
+    background-color: #7cfc7c;
+    padding-left: 10px;
+    text-align: center;
+    border-radius: 2px;
+    font-weight: bold;
+}
+.right table tr td:first-child{
+    text-align: left;
+}
+.right table tr{
+    opacity: 0.6;
+}
+.right table tr:first-child{
+    opacity: 1;
+}
+.right table tr:hover{
+    opacity: 1;
+}
+
 
