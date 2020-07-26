@@ -11,8 +11,9 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
 }
-img{
-    size: 25%;
+.avat{
+    height: 25%;
+    width: 25%;
 }
 body, html {
     height: 100%;
